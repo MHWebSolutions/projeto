@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-    baseURL: 'https://master.d2zg2lqzrhi8ug.amplifyapp.com'
+    baseURL: 'http://192.168.3.125:8080'
 })
